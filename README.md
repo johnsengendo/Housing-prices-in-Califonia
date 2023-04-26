@@ -16,4 +16,4 @@ To further gain more insights, I plot the latitude and longitudes data on a scat
 
 Since the goal is to predict the median house value, to identify the most important attributes that will help to achieve I explore the correlation between each attribute and the median_house_value attribute.
 
-![Data](Viz1.JPG)
+![Data](Viz1.jpg)
