@@ -12,7 +12,7 @@ Below I further plot some graphs to visualize the data.
 
 To further gain more insights, I plot the latitude and longitudes data on a scatter plot which generated a map of Califonia. I as well added the median house value attribute and population attribute with more red spots indicating areas where the house value is high while the bigger bubbles showing areas where the population is high.
 
-![Data](Visualization1.JPG)
+![Data](Visualization1.JPG) ![Data](Viz1.jpg)
 
 Since the goal is to predict the median house value, to identify the most important attributes that will help to achieve I explore the correlation between each attribute and the median_house_value attribute.
 
