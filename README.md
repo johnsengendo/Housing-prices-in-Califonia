@@ -4,4 +4,5 @@ The model will use this data to learn and be able to predict the median housing 
 
 Before going deeper into building models, I first downloaded the [Dataset]( https://raw.githubusercontent.com/ageron/handson-ml2/master/datasets/housing/housing.tgz), explore and visualize it to gain ingights.
 Below we see the entries.
+![Data](data_columns.JPG)
 This helps in cleaning up attributes that maynot be relevant for the machine learning models.
