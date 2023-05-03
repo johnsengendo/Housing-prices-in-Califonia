@@ -10,7 +10,7 @@ Below we see the entries.
 Below I further plot some graphs to visualize the data.
 ![Data](Graphs.JPG)
 
-To further gain more insights, I plot the latitude and longitudes data on a scatter plot which generated a map of Califonia. I as well added the median house value attribute and population attribute with more red spots indicating areas where the house value is high while the bigger bubbles showing areas where the population is high.
+To further gain more insights, I plot the latitude and longitudes data on a scatter plot which generated a map of Califonia. I added some visualization parameters to make patterns stand out in median_house_value attribute and population attribute. As expected, its seen that the housing prices are very much correlated to the location e.g close to the sea and to the population density. With more red spots indicating areas where the house value is high while the bigger bubbles showing areas where the population is high.
 
 ![Data](Visualization1.JPG)
 
